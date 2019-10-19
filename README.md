@@ -12,4 +12,4 @@ Further usage specification is described in the project's landing page once it i
 1. clone it. 
 2. run `npm install`.
 3. run MongoDB on your local machine.
-4. run node app.js in a terminal window of your choice. 
+4. run `node app.js` in a terminal window of your choice. 
