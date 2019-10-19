@@ -8,7 +8,7 @@ This ID can be used in order to receive(GET) the user's exercise log.
 
 Further usage specification is described in the project's landing page once it is run in a browser. 
 
-# Run this projcet by: 
+# To run this projcet: 
 1. clone it. 
 2. run `npm install`.
 3. run MongoDB on your local machine.
